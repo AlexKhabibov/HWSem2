@@ -1,0 +1,15 @@
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/bin/Debug/net6.0/Task13
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/bin/Debug/net6.0/Task13.deps.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/bin/Debug/net6.0/Task13.runtimeconfig.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/bin/Debug/net6.0/Task13.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/bin/Debug/net6.0/Task13.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/obj/Debug/net6.0/Task13.csproj.AssemblyReference.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/obj/Debug/net6.0/Task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/obj/Debug/net6.0/Task13.AssemblyInfoInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/obj/Debug/net6.0/Task13.AssemblyInfo.cs
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/obj/Debug/net6.0/Task13.csproj.CoreCompileInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/obj/Debug/net6.0/Task13.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/obj/Debug/net6.0/refint/Task13.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/obj/Debug/net6.0/Task13.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/obj/Debug/net6.0/Task13.genruntimeconfig.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 2. Базовые алгоритмы. Семинар 2/SEM2/HWSem2/Task13/obj/Debug/net6.0/ref/Task13.dll
